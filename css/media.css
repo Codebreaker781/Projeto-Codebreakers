@@ -1,5 +1,5 @@
 /* 📱 Mobile pequeno */
-@media (max-width: 480px) {
+@media screen and (max-width: 480px) {
     .secao {
         flex-direction: column;
         text-align: center;
@@ -68,7 +68,7 @@
 }
 
 /* 📱 Mobile padrão */
-@media (min-width: 481px) and (max-width: 767px) {
+@media screen and (min-width: 481px) and (max-width: 767px) {
     
 }
 
